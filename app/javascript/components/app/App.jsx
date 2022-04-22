@@ -5,3 +5,5 @@ export default function App() {
     <div> Hello from App </div>
   )
 };
+
+// TODO: complete bootstrap installation to react-rails and use it here
