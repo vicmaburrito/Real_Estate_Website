@@ -1,9 +1,13 @@
 import React from 'react';
+import Home from './Home/Home';
 
 export default function App() {
   return (
-    <div> Hello from App </div>
+    <>
+      <Home />
+      <div> Hello from App </div>
+    </>
   )
 };
 
-// TODO: complete bootstrap installation to react-rails and use it here
+// DONE: complete bootstrap installation to react-rails and use it here
